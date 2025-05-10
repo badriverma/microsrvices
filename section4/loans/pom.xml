@@ -94,7 +94,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>badri2025/{project.artifactId}:s4</name>
+						<name>badri2025/${project.artifactId}:s4</name>
 					</image>
 					<excludes>
 						<exclude>
