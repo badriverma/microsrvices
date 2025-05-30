@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to eazy bank cards prod related local apis"
+  contactDetails:
+    name: "Badri Verma prod Backend Developer"
+    email: "prodbadribackend@gmail.com"
+  onCallSupport:
+    - (222) 419-3491
+    - (999) 382-1932

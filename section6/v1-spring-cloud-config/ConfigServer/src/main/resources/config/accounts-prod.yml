@@ -1,0 +1,11 @@
+build:
+  version: "1.0 version"
+
+accounts:
+  message: "Welcome to eazy back account related prod APIs"
+  contactDetails:
+    name: "Badri Prasad Verma prod"
+    email: badriverma135@gmail.com
+  onCallSupport:
+    -(555)555-1234
+    -(555)555-1234
