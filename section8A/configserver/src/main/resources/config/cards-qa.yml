@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to eazy bank cards qa related local apis"
+  contactDetails:
+    name: "Badri Verma qa Backend Developer"
+    email: "qabadribackend@gmail.com"
+  onCallSupport:
+    - (666) 419-3491
+    - (444) 382-1932
