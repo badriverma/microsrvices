@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d9a96ac-d3af-4ff0-b591-327fcaae1edb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../section8A/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section8A/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section8A/.idea/modules.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="7d9a96ac-d3af-4ff0-b591-327fcaae1edb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +30,11 @@
     "Application.LoansApplication.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "badri",
     "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Udemy Microservices/section8B",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
