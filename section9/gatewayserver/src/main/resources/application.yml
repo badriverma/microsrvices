@@ -12,7 +12,7 @@ spring:
         webflux:
           discovery:
             locator:
-              enabled: true
+              enabled: false
               lowerCaseServiceId: true
 
 management:
@@ -38,3 +38,8 @@ info:
     name: "gatewayserver"
     description: "Badri Bank Gateway Server Application"
     version: "1.0.0"
+
+logging:
+  level:
+    com:
+      gatewayserver: DEBUG
